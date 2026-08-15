@@ -1,0 +1,15 @@
+{
+	"name": "vijaystorage13021991",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5156b75c-a976-4589-b03c-494420f31872",
+		"tenantId": "d29791fc-ac23-4377-9f47-bace10d5ed40"
+	}
+}
